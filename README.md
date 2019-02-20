@@ -9,3 +9,5 @@ Installation
 ------------
 
 Assuming you already have IITC just → **[install the script](https://github.com/Eccenux/iitc-plugin-draw-tools-mobile/raw/master/draw-tools-mobile.user.js)**.
+
+attempting to allow zoom and map movements to not break draw session  
